@@ -7,7 +7,7 @@ availability_zone =  "ap-south-1a"
 cidr_block1  = "192.168.1.0/24"
 availability_zone2 =  "ap-south-1a"
 cidr_block2  = "192.168.2.0/24"
-availability_zone2 =  "ap-south-1b"
+availability_zone2 = "ap-south-1b"
 
 
 #Creating Internet Gateway
